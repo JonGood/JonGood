@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Cyber Security Projects
 
-- [Automated Building a Vulnerable Home Lab](https://github.com/JonGood/vulhab-lab)
+- [Automate Building a Vulnerable Home Lab](https://github.com/JonGood/vulhab-lab)
 
 ## 📺 Popular YouTube Videos
 
