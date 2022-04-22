@@ -24,7 +24,12 @@
 
 <a href="https://www.instagram.com/jongoodcyber/"><img align="left" src="https://raw.githubusercontent.com/jongood/jongood/main/images/instagram.svg" alt="Jon Good | Instagram" width="21px"/></a>
 
+--
 
+## 📈 GitHub Stats
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=JonGood)](https://github.com/JonGood)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=JonGood.JonGood)](https://www.JonGood.com/)
 
 
 <!--
