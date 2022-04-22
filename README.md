@@ -8,14 +8,14 @@
 
 ## 👨‍💻 Cyber Security Projects
 
-- <a href="https://github.com/JonGood/vulhab-lab">Automated Vulnerable Lab</a>
+- [Automated Vulnerable Lab](https://github.com/JonGood/vulhab-lab)
 
 ## 📺 Popular YouTube Videos
 
-- <a href="https://youtu.be/-HG1PTcDd60">How I Passed the CISSP Cyber Security Exam in Two Weeks</a>
-- <a href="https://youtu.be/x87gbgQD4eg">Nessus Vulnerability Scanner Tutorial (Cyber Security Tools)</a>
-- <a href="https://youtu.be/nfUuO86VUjk">How to Start in Cyber Security, the roadmap for winners</a>
-- <a href="https://youtu.be/jb7T26soBo0">Cyber Security Interview Questions You Must Know (Part 1)</a>
+- [How I Passed the CISSP Cyber Security Exam in Two Weeks](https://youtu.be/-HG1PTcDd60)
+- [Nessus Vulnerability Scanner Tutorial (Cyber Security Tools)](https://youtu.be/x87gbgQD4eg)
+- [How to Start in Cyber Security, the roadmap for winners](https://youtu.be/nfUuO86VUjk)
+- [Cyber Security Interview Questions You Must Know (Part 1)](https://youtu.be/jb7T26soBo0)
 
 
 ## 🤳 Connect with me:
