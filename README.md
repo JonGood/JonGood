@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🤳 Connect with me:
+JonGoodCyber | YouTubeJonGoodCyber | TwitterJonGoodCyber | LinkedInJonGoodCyber | InstagramJonGoodCyber
