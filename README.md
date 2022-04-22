@@ -18,6 +18,17 @@
 - [Cyber Security Interview Questions You Must Know (Part 1)](https://youtu.be/jb7T26soBo0)
 
 
+## 💼 Technical Skills
+
+![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=gnu-bash&color=4EAA25)
+![](https://img.shields.io/badge/Code-PowerShell-informational?style=flat&logo=powershell&color=5391FE)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=FCC624)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&color=0078D6)
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macOS&color=000000)
+
+
 ## 🤳 Connect with me:
 <a href="https://www.youtube.com/jongoodcyber/"><img align="left" src="https://raw.githubusercontent.com/jongood/jongood/main/images/youtube.svg" alt="Jon Good | YouTube" width="21px"/></a>
 
@@ -28,6 +39,7 @@
 <a href="https://www.instagram.com/jongoodcyber/"><img align="left" src="https://raw.githubusercontent.com/jongood/jongood/main/images/instagram.svg" alt="Jon Good | Instagram" width="21px"/></a>
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=JonGood.JonGood)](https://www.JonGood.com/)
+
 
 <!--
 **JonGood/JonGood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
